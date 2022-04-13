@@ -1,0 +1,19 @@
+.landing_container{
+    position: fixed;
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+    background-position: center;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 0;
+}
+
+.MuiInputBase-root{
+    border: 1px solid white;
+}
+
+.MuiSelect-select{
+    color: white;
+}
